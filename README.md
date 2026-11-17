@@ -1,16 +1,31 @@
-## Hi there 👋
+## Hi, I'm Yiran
 
-<!--
-**Cornelia1425/Cornelia1425** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Design engineer in New York. I design and build front end, mostly 3D and interactive work in the browser.
 
-Here are some ideas to get you started:
+I trained as an architect (M.Arch) and moved into code. I use Cursor and Claude Code every day to prototype.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Looking for design engineer roles in NYC.
+
+### Selected work
+
+| Project | What it is | Stack | Live |
+|---|---|---|---|
+| [Nüwa Creation](https://github.com/Cornelia1425/nuwa-creation) | Hand-tracking clay sculpting in the browser | MediaPipe, PixiJS, React, TypeScript | |
+| [Escape Orbit](https://github.com/Cornelia1425/escape-orbit) | Multiplayer focus app | React, Three.js, SpacetimeDB (Rust) | [open](https://escape-orbit.vercel.app) |
+| [yiranshu.com](https://github.com/Cornelia1425/Cornelia1425.github.io) | My portfolio as a 3D site | React, TypeScript, three.js | [open](https://yiranshu.com) |
+| VOYAGE | Browser game where you walk through a living ink painting | JavaScript, SVG | [open](https://yiranshu.com/voyage) |
+| [Rhino Window Extractor](https://github.com/Cornelia1425/rhino-window-extractor) | Reads a Rhino building model and exports every window's size, orientation and floor | Python, rhino3dm, pandas | |
+
+### Hackathons
+
+| Year | Event | Project | Result |
+|---|---|---|---|
+| 2025 | Solana Skyline Consumer Summer Hackathon, NYC | [Sector77](https://github.com/Cornelia1425/sector77) ([open](https://sector77.vercel.app)) | Prize winner |
+
+### Skills
+
+TypeScript, JavaScript, React, three.js, PixiJS, MediaPipe, Python, Figma, Blender, Rhino
+
+### Links
+
+[Website](https://yiranshu.com) · [LinkedIn](https://www.linkedin.com/in/yiranshu/) · [X](https://x.com/MonsterSea7)
